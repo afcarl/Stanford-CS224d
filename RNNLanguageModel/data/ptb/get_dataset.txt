@@ -1,0 +1,1 @@
+Download the dataset from the following URL: http://cs224d.stanford.edu/assignment2/index.html
